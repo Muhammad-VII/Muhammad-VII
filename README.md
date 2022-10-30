@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Akmal</h1>
-<h3 align="center">Interested in Web Development [MEANStack]</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 - 🔭 I’m currently working on **ERP System**
 
