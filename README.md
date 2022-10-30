@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Akmal</h1>
 <h3 align="center">Interested in Web Development [MEANStack]</h3>
 
-- 🔭 I’m currently working on **VOLT E-Commerce**
+- 🔭 I’m currently working on **ERP System**
 
 - 🌱 I’m currently learning **AWS**
 
