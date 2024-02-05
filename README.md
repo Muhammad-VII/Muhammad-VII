@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meshoronaldo62@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1-VXjLMNQvZKqkhAeoincYS4DnE1I4Zpu/view?usp=sharing](https://drive.google.com/file/d/1-VXjLMNQvZKqkhAeoincYS4DnE1I4Zpu/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1-VXjLMNQvZKqkhAeoincYS4DnE1I4Zpu/view?usp=sharing](https://drive.google.com/file/d/1_zZ0PZDdbHki2k5VNg7aiacOhQjlPNTX/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
