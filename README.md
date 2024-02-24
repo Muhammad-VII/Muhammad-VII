@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Akmal</h1>
 <h3 align="center">Frontend Engineer</h3>
 
-- 🔭 I’m currently working on **ERP System**
-
-- 🌱 I’m currently learning **AWS**
-
-- 📫 How to reach me **meshoronaldo62@gmail.com**
+- 📫 How to reach me **contactakmal8@gmail.com**
 
 - 📄 My Resume [https://drive.google.com/file/d/1-VXjLMNQvZKqkhAeoincYS4DnE1I4Zpu/view?usp=sharing](https://drive.google.com/file/d/1_zZ0PZDdbHki2k5VNg7aiacOhQjlPNTX/view?usp=sharing)
 
