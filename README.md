@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **contactakmal8@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1BbAH8Wcuedma1Mb5-A6KhHH0PVgaWlsk/view?usp=drive_link](https://drive.google.com/file/d/1BbAH8Wcuedma1Mb5-A6KhHH0PVgaWlsk/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1IY6iH6auYVaNwTx1tK-5V_xFje256e_1/view?usp=sharing](https://drive.google.com/file/d/1IY6iH6auYVaNwTx1tK-5V_xFje256e_1/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
